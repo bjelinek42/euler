@@ -8,7 +8,6 @@ while num <= 100
 end
 
 p total
-# 338350
 
 total2 = 0
 num2 = 1
